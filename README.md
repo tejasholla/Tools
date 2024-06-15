@@ -50,3 +50,5 @@ python script_name.py
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **_*Feel free to contribute to this repository by submitting issues or pull requests. Let's make these tools even better together!*_**
+
+**_Remember, with great power comes great responsibility. Use these spells wisely, and let the magic unfold!_**
