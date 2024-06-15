@@ -1,4 +1,5 @@
 import subprocess
+
 systemInfo=''
 try:
     systemInfo = subprocess.check_output(['uname']).decode('utf-8', errors="backslashreplace").split('\n')
