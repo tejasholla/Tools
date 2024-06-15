@@ -45,6 +45,10 @@ Run the desired script using Python:
 python script_name.py
 ```
 
+## Details
+
+![Alt](https://repobeats.axiom.co/api/embed/f0994ff302dcfaee6611bd3f4bef305cef6537ca.svg "Repobeats analytics image")
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
